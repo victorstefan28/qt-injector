@@ -1,7 +1,7 @@
 # qt-injector
 Basic LoadLibrary DLL injector written in C++ QT framework with UI.
 
-Features
-  ```->Using QT Smart Pointers.```
-  ```->Will implement a future loader based on this, login is hardcoded now(user: user, password: password).```
-  ```->Using LoadLibraryW method, will add manual map later.```
+#Features
+  1.Using QT Smart Pointers.
+  2.Can be used to implement a future loader based on this, login is hardcoded now(user: user, password: password).
+  3.Using LoadLibraryW method.
